@@ -25,6 +25,8 @@ JavaScript – interactivity and navigation
 VS Code – for development and editing
 
 ##OUTPUT
+<img width="1570" height="789" alt="Image" src="https://github.com/user-attachments/assets/ad21e7f6-6c73-4086-a493-ea3e2c3cf395" />
 
+<img width="1571" height="835" alt="Image" src="https://github.com/user-attachments/assets/74156938-fdb2-4afa-aaf0-f22ef53d0cb5" />
 
-OUTPUT
+<img width="1566" height="840" alt="Image" src="https://github.com/user-attachments/assets/407917ba-b8ae-4711-a388-9a118a2fe90b" />
