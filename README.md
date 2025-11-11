@@ -1,9 +1,9 @@
 # E-LEARNING-PLATFORM-UI
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: SYED SALMANUDDIN
+NAME: MOODA SHARATH
 
-INTERN ID: CT04DR640
+INTERN ID: CT04DR609
 
 DOMAIN: FRONT END DEVELOPMENT
 
@@ -26,7 +26,5 @@ VS Code – for development and editing
 
 ##OUTPUT
 
-
-Deliverable: A visually appealing, multi-page E-Learning UI with responsive design and interactive features.
 
 OUTPUT
